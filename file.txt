@@ -1,1 +1,3 @@
-Schimbam inca odata continutul fisierului. 
+Schimbam inca odata continutul fisierului.
+
+Adaugam inca ceva in acest fisier.
