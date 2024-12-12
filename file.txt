@@ -1,2 +1,1 @@
-Change de file.
-Changes with more details.
+Se schimba tot textul din acest fisier.
